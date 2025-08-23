@@ -1,11 +1,11 @@
 ---
 title: "Realtime data ingestion into watsonx.data"
 date: 2025-08-22
-draft: false
+draft: true
 summary: "Realtime Ingestion of data into IBM watsonx.data"
 tags: ["watsonx.data", "realtime", "ibm-streamsets"]
 series: ["watsonx.data Series"]
-series_order: 1
+series_order: 2
 ---
 
 {{< badge >}}
