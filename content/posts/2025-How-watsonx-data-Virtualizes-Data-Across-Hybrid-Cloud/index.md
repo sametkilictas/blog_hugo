@@ -1,12 +1,13 @@
 ---
 title: "Data Fabric in Action: How watsonx.data Virtualizes Data Across Hybrid Cloud"
-date: 2025-08-22
+date: 2025-08-23
 draft: false
 summary: "Learn how IBM watsonx.data enables data virtualization and federated queries across PostgreSQL, DB2, S3, and more to build a modern data fabric."
 tags: ["watsonx.data", "IBM Data Lakehouse", "Data Fabric", "Data Virtualization", "Apache Iceberg", "Presto Spark", "DataStage ETL", "Federated Queries"]
 categories: ["Data & AI", "IBM watsonx", "Data Fabric"]
 series: ["watsonx.data Series"]
 series_order: 1
+
 ---
 
 {{< badge >}}
