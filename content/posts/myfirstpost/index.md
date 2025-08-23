@@ -2,7 +2,7 @@
 title: "My first post"
 date: 2023-08-14
 draft: true
-summary: "Realtime Ingestion of data into IBM watsonx.data"
+summary: "Template post"
 tags: ["space"]
 series: ["watsonx.data Series"]
 series_order: 1
@@ -23,6 +23,24 @@ New article!
 
 
 ## A sub-title
+
+warning 
+
+{{< alert >}}
+**Warning!** This action is destructive!
+{{< /alert >}}
+
+Alert red
+
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
+This is an error!
+{{< /alert >}}
+
+alert twitter
+
+{{< alert "twitter" >}}
+Don't forget to [follow me](https://twitter.com/nunocoracao) on Twitter.
+{{< /alert >}}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nibh nisl, vulputate eu lacus vitae, maximus molestie libero. Vestibulum laoreet, odio et sollicitudin sollicitudin, quam ligula tempus urna, sed sagittis eros eros ac felis. In tristique tortor vitae lacinia commodo. Mauris venenatis ultrices purus nec fermentum. Nunc sit amet aliquet metus. Morbi nisl felis, gravida ac consequat vitae, blandit eu libero. Curabitur porta est in dui elementum porttitor. Maecenas fermentum, tortor ac feugiat fringilla, orci sem sagittis massa, a congue risus ipsum vel massa. Aliquam sit amet nunc vulputate, facilisis neque in, faucibus nisl.
 
