@@ -60,8 +60,8 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [article]
   showDate = true
-  showViews = true
-  showLikes = true
+  showViews = false
+  showLikes = false
   showDateOnlyInArticle = false
   showDateUpdated = true
   showAuthor = true
@@ -89,6 +89,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showWordCount = true
   sharingLinks = [ "linkedin", "twitter"]
   showZenMode = true
+  showComments = true
 
 [list]
   showHero = false
@@ -132,13 +133,13 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   cardViewScreenWidth = false
 
 [firebase]
-  apiKey = "AIzaSyAvOjexPllBYnInTTVMwrERFIlFiq17rp4"
-  authDomain = "samet-blog.firebaseapp.com"
-  projectId = "samet-blog"
-  storageBucket = "samet-blog.firebasestorage.app"
-  messagingSenderId = "664544413698"
-  appId = "1:664544413698:web:d3a7f510de4713214a7f1b"
-  measurementId = "G-4J5X4JQZ7Z"
+  # apiKey = "XXXXXX"
+  # authDomain = "XXXXXX"
+  # projectId = "XXXXXX"
+  # storageBucket = "XXXXXX"
+  # messagingSenderId = "XXXXXX"
+  # appId = "XXXXXX"
+  # measurementId = "XXXXXX"
 
 [fathomAnalytics]
   # site = "ABC12345"
