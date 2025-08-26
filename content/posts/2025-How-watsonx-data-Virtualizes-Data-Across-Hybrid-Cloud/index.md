@@ -7,6 +7,7 @@ tags: ["IBM watsonx.data", "Lakehouse", "Data Fabric", "Data Virtualization", "A
 categories: ["Data & AI", "IBM watsonx", "Data Fabric"]
 series: ["watsonx.data Series"]
 series_order: 1
+slug: how-watsonx-data-virtualizes-data-across-hybrid-cloud
 
 ---
 
