@@ -3,7 +3,7 @@ title: "Data Fabric in Action: How watsonx.data Virtualizes Data Across Hybrid C
 date: 2025-08-23
 draft: false
 summary: "Learn how IBM watsonx.data enables data virtualization and federated queries across PostgreSQL, DB2, S3, and more to build a modern data fabric."
-tags: ["IBM watsonx.data", "Lakehouse", "Data Fabric", "Data Virtualization", "Apache Iceberg", "Presto Spark", "IBM DataStage", "Federated Queries"]
+tags: ["IBM watsonx.data", "Lakehouse", "Data Fabric", "Data Virtualization", "Apache Iceberg", "Presto", "IBM DataStage", "Federated Queries"]
 categories: ["Data & AI", "IBM watsonx", "Data Fabric"]
 series: ["watsonx.data Series"]
 series_order: 1
@@ -14,8 +14,6 @@ slug: how-watsonx-data-virtualizes-data-across-hybrid-cloud
 {{< badge >}}
 Article
 {{< /badge >}}
-
-# Data Fabric in Action: How watsonx.data Virtualizes Data Across Hybrid Cloud
 
 ## Introduction: Why Data Silos Are Slowing You Down
 In today’s world, data is the new oil. Companies rely on it to make decisions, build products, and serve customers better. But here’s the problem: **most organizations don’t have “one” dataset—they have hundreds, sometimes thousands, scattered across different systems**.  
